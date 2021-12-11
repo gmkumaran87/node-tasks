@@ -1,0 +1,22 @@
+{
+  "name": "node-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmkumaran87/node-tasks.git"
+  },
+  "author": "Muhtukumaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmkumaran87/node-tasks/issues"
+  },
+  "homepage": "https://github.com/gmkumaran87/node-tasks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
